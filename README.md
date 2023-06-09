@@ -64,5 +64,5 @@ To get started with the backend server, follow the instructions below.
 
 ## Usage
 
-Once the server is up and running, you can interact with the Log Monitoring Project's backend API. However, to use the frontend interface, please refer to the separate "frontend" repository for frontend setup and usage instructions.
+Once the server is up and running, you can interact with the Log Monitoring Project's backend API. However, to use the frontend interface, please refer to the separate "frontend_log_monitor" repository for frontend setup and usage instructions.
 
