@@ -1,4 +1,3 @@
-Certainly! If the frontend is placed in a separate repository named "frontend," you can update the README file to provide instructions for setting up and running the backend server only. Here's an example:
 
 ```markdown
 # Log Monitoring Project (Backend)
